@@ -9,8 +9,6 @@
 
 - 📫 How to reach me:  **fliegekrzysztof@gmail.com**
 
-- ⚡ Fun fact:  **I should knew a lot more at this point, but i was lazy.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kfliege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kfliege" height="30" width="40" /></a>
